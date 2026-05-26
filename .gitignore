@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+models/
+checkpoints/
+ImagesTr/
+ImagesTr_unlabeled/
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
